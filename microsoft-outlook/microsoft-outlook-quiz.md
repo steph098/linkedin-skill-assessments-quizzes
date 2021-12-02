@@ -74,7 +74,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 #### Q10. You create a task and assign it to Nalia. Nalia reviews the request and declines the assignment. Where is the task now, and who is the owner?
 
 - [ ] The task is nowhere, and no one is the owner.
-- [ ] The task is in your task list, and you are the owner.
+- [x] The task is in your task list, and you are the owner.
 - [ ] The task is in Nalia's task list, and you are the owner.
 - [ ] The task is in Nalia's task list, and Nalia is the owner until she reassigns it to you.
 
@@ -97,7 +97,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] Review your folders to determine the age of messages that should auto archive in each folder. Set the most frequent value as the AutoArchive default
 - [ ] For each folder, determine whether aged items should be deleted or archived
 - [ ] Set individual settings for folders that should be archived, but not using the default settings
-- [ ] All of these answers
+- [x] All of these answers
 
 #### Q14. Removing redundant messages can be completed by utilizing what Outlook features?
 
@@ -125,7 +125,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] Sending the contact is faster because the contact itself has no formatting
 - [ ] Sharing a contact is superior because more email systems support Outlook contacts rather than business cards
 - [ ] There is no real difference
-- [ ] Your business card can be edited to omit personal information such as a home phone
+- [x] Your business card can be edited to omit personal information such as a home phone
 
 #### Q18. You have received an email message with detailed notes that you need to analyze before responding, so you want to save it as a task. What is the best way to create a new task that includes the notes in the body of the task?
 
@@ -146,7 +146,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] Create a CCd folder, and then create a rule to move all messages where you are on the CC line to that folder
 - [ ] Create a rule to move all messages where you are in the CC line to the Deleted Items folder
 - [ ] Create a rule to apply conditional formatting to all messages where you are in the CC line
-- [ ] Turn on Focused Inbox
+- [x] Turn on Focused Inbox
 
 #### Q21. How can you quickly locate emails with large attachment?
 
@@ -264,7 +264,7 @@ C. Some people have already accepted, so you must cancel this meeting and create
 #### Q36. What is a key difference between flagging a message for follow up and creating a task from them?
 
 - [ ] All of these answers
-- [ ] A task can be assigned to another person while a flagged item cannot be delegated
+- [x] A task can be assigned to another person while a flagged item cannot be delegated
 - [ ] You can set a reminder for a task but not for a flagged item
 - [ ] The flagged message appears only in the Inbox folder; the task appears in the To-Do Bar and task list
 
